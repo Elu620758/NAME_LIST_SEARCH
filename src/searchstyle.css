@@ -1,0 +1,27 @@
+.Search{
+    padding: 10px;
+    margin: 10px; 
+    font-size: 20px;
+    align-items: center;
+    margin-top: 10%;
+    align-items: center;
+    width:100%;    
+    box-shadow:0 0 15px 4px rgba(0,0,0,0.06);
+    border-radius:10px;
+    background-color: rgb(171, 236, 145);
+
+ 
+}
+
+
+.listItem{
+    margin-bottom: 20px;
+    font-size: 25px;
+    color: #444;
+    font-weight: 300;
+} 
+.list{
+    padding: 0;
+    list-style: none;
+    text-align: center;
+}
